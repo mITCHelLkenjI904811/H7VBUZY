@@ -3,7 +3,6 @@ exclude_paths:
   - src/collectors/python.d.plugin/python_modules/pyyaml3/**
   - src/collectors/python.d.plugin/python_modules/urllib3/**
   - src/collectors/python.d.plugin/python_modules/third_party/**
-  - packaging/makeself/**
   - tests/**
   - aclk/tests/**
   - src/libnetdata/libjudy/**

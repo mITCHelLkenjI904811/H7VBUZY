@@ -361,7 +361,6 @@ If you found ManimML useful please cite it below!
       title={ManimML: Communicating Machine Learning Architectures with Animation}, 
       author={Alec Helbling and Duen Horng and Chau},
       year={2023},
-      eprint={2306.17108},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
